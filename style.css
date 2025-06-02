@@ -131,6 +131,8 @@ p{
 
     #desktop-hero{
         display: block;
+        width: 360px;
+        
     }
 
     main{
@@ -141,7 +143,7 @@ p{
     }
 
     #section-1{
-        width: 100%;
+        /* width: 100%; */
         margin: 70px 70px;
     }
 
@@ -166,12 +168,12 @@ p{
     }
 
     #section-2-img-wrapper{
-        padding-top: 400px;
+        /* padding-top: 200px; */
     }
 
     #section-2-btn-wrapper{
        justify-content: start;
-       width: 400px;
+       
     }
 
 }
