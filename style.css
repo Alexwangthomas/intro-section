@@ -131,7 +131,7 @@ p{
 
     #desktop-hero{
         display: block;
-        width: 360px;
+        width: 400px;
         
     }
 
@@ -155,7 +155,8 @@ p{
 
     .section-2 > h1{
         /* border: 3px solid red; */
-        font-size: 73px;
+        font-size: 115px;
+        /* width: 50px; */
         text-align: left;
     
     }
